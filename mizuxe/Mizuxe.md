@@ -1,6 +1,6 @@
 # Mizuxe
 
-##1. 导航栏
+## 1. 导航栏
 
 ```html
 <nav class="navbar navbar-expand-md navbar-light fixed-top py-4">
@@ -209,7 +209,7 @@ w-50: ->width 50
 ```
 
 
-##5. About / Why section
+## 5. About / Why section
 
 
 ```html
