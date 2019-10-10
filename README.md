@@ -1,14 +1,14 @@
 # Front-end-templates
 
 Bootstrap4:
-</br>
+<br/>
 LoopLAB: https://chenxiicheng.github.io/looplab/
-</br>
+<br/>
 Mizuxe: https://chenxiicheng.github.io/mizuxe/
-</br>
+<br/>
 Glozzon: https://chenxiicheng.github.io/glozzon/
 
 Materialize:
 
-</br>
+<br/>
 Travel: https://chenxiicheng.github.io/travel
