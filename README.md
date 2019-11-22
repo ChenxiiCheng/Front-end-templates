@@ -2,7 +2,7 @@
 
 Pure HTML and CSS:
 
-Portfolio: https://portfolio.chenxii.xyz
+Portfolio: http://portfolio.chenxii.xyz
 
 News: https://grid.chenxii.xyz
 
